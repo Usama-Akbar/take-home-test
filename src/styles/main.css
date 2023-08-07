@@ -1,0 +1,23 @@
+.main-div {
+  padding: 50px 200px;
+  height: 100%;
+  background-color: rgba(247, 244, 244, 0.767);
+}
+.chakra-ui-light {
+  background-color: rgba(247, 244, 244, 0.767);
+}
+body {
+  font-family: "Poppins" !important;
+}
+#__next {
+  background-color: rgba(247, 244, 244, 0.767);
+}
+.post-image {
+  border-radius: 15px;
+}
+.share-icon {
+  width: 200px;
+}
+.hashtag {
+  color: blue;
+}
