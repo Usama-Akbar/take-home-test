@@ -247,7 +247,7 @@ export default function Main() {
           </CardBody>
         </Card>
         {elements.length > 0 ? (
-          (elements as any[]).reverse().map((data, index) => (
+          (elements as any[]).map((data, index) => (
             <Card key={index} marginTop={10}>
               <CardBody>
                 <Stack divider={<StackDivider />} spacing="4">
